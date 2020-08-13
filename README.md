@@ -34,4 +34,4 @@ Python Text Editor using Tkinter with tab functionality.
    * Ctrl+V : Paste
    * Ctrl+X : Cut
    * Ctrl+F : Find
- - also chande font size,font color and font type
+  - also change font size,font color and font type
